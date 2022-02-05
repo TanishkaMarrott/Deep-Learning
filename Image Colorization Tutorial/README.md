@@ -2,15 +2,10 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/moein-shariatnia/Deep-Learning/blob/main/Image%20Colorization%20Tutorial/Image%20Colorization%20with%20U-Net%20and%20GAN%20Tutorial.ipynb)
 
-**This is an advanced tutorial on _Image Colorization_ using deep learning and [PyTorch](https://pytorch.org/).**
-
-**This is [the related article](https://towardsdatascience.com/colorizing-black-white-images-with-u-net-and-conditional-gan-a-tutorial-81b2df111cd8) on **TowardsDataScince** by myself which you can check out. I've put the explanations here as well but one could prefer to read it from the article.**
 
 I highly recommend that you go through this tutorial in **colab** by simply clicking the **Open in Colab** badge below. You can train the models from scratch or downlaod the pretrained weights and use it to colorize your black & white images. All the tutorial explanations are included there as well.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/moein-shariatnia/Deep-Learning/blob/main/Image%20Colorization%20Tutorial/Image%20Colorization%20with%20U-Net%20and%20GAN%20Tutorial.ipynb)
-
-**Please :star: star :star: this repo if you liked the tutorial :)**
 
 ## Final model's output 
 
